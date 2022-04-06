@@ -1,3 +1,5 @@
+![logo](https://github.com/AmaliaTemneanu/HyIPO-Hyped-Initial-Product-Offerings/blob/main/reports/figures/hyipo%20header-03.png)
+
 # HyIPO: Hyped Initial Product Offerings
 
 ## Project Intro/Objective
