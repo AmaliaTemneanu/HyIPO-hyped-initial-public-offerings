@@ -48,10 +48,13 @@ The feature selection process of finding and selecting the most useful ones in a
 - split data into train/ test sets
 - define a pipeline for preprocessing
 - use PyCaret to determine the 5 best model in terms of accuracy
+- create a Custom Metric in PyCart - Profit - to select the model that maximizes the business value
+  - If we predict investing in the IPO and the real value is 1, we gain the potential profit (based on historical average) * investment value
+  - If we predict investing in the IPO and the real value is 0, we lose the potential loss (based on historical average) * investment value 
 - fine-tune the hyperparameters of the best models using Grid Search
 - evaluate the performance of the models on the test dataset
 - build NN architectures and experiment with more aspects of Dense NN models such as layer activations, learning rates, regularization
-- select the best model in terms of accuracy, f1-score and explainability – Logistic Regression
+- select the best model in terms of accuracy, f1-score, business value and explainability – Logistic Regression
 
 ### Conclusions
 According to the coefficients resulted from my selected model (Logistic Regression) I can draw the following conclusions:
