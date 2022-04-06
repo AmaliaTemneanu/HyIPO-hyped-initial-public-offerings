@@ -1,6 +1,6 @@
 ![logo](https://github.com/AmaliaTemneanu/HyIPO-Hyped-Initial-Product-Offerings/blob/main/reports/figures/hyipo%20header-03.png)
 
-# HyIPO: Hyped Initial Product Offerings
+# HyIPO: Hyped Initial Public Offerings
 
 ## Project Intro/Objective
 The purpose of this project is to leverage statistical methods to study risk in the IPO market and to build a model to rank IPOs in terms of their expected returns.
